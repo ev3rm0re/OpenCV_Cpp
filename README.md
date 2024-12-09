@@ -1,6 +1,6 @@
 # OpenCV_C++ 学习笔记
 
-* 代码基于`mingw64`编译的`opencv`，需要自行使用`mingw64`编译`opencv`，替换`.vscode/launch.json`和`.vscode/tasks.json`文件中关于`opencv`路径和`g++、gdb`路径的部分
+* 代码基于`mingw64`编译的`opencv`，需要自行使用`mingw64`编译`opencv`，替换`.vscode/launch.json`和`.vscode/tasks.json`、`.vscode/c_cpp_properties.json`文件中关于`opencv`路径和`g++`及`gdb`路径的部分
 
 ## Chapter index 章节索引：
 
